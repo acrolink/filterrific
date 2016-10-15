@@ -101,4 +101,6 @@ if(Filterrific.initialized) {
     0.5,
     Filterrific.submitFilterForm
   );
+  Filterrific.initialized = true
+  
 });
